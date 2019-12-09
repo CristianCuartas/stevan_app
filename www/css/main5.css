@@ -43,6 +43,7 @@ p{
 	padding-top: 30px;
 }
 .container-xd{
+	margin-top: 80px;
 /*
 	position: relative;
 	margin-top: 10px;
@@ -65,7 +66,9 @@ h1{
 }
 .container-re{
 	position: relative;
-	padding-top: 20px;
+	padding:inherit;
+	margin: auto;
+	margin-bottom: 50px;
 }
 hr{
 	width: 90%
@@ -85,4 +88,11 @@ footer
 .foto{
 	margin: 75px;
 	
+	}
+.image{
+	width: 100%
+}
+.switch{
+	
+		
 	}}
